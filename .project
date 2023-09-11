@@ -22,7 +22,11 @@
 	</natures>
 	<filteredResources>
 		<filter>
+<<<<<<< HEAD
 			<id>1694418856244</id>
+=======
+			<id>1694424902167</id>
+>>>>>>> SpringIOC-1-superdemo42
 			<name></name>
 			<type>30</type>
 			<matcher>
