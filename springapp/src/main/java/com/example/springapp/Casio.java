@@ -4,6 +4,7 @@ public class Casio implements Calculator{
    //Write Your code Here
 
    casio() {
-      System.out.println("dfsa");
+      System.ou
+      t.println("dfsa");
   }
 }
